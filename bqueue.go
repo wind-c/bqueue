@@ -1,3 +1,7 @@
+// SPDX-License-Identifier: MIT
+// SPDX-FileCopyrightText: 2023 wind-c
+// SPDX-FileContributor: wind (573966@qq.com)
+
 package bqueue
 
 import (
