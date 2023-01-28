@@ -1,6 +1,6 @@
 `bqueue` [![Go Report Card](https://goreportcard.com/badge/github.com/wind-c/bqueue)](https://goreportcard.com/report/github.com/wind-c/bqueue) [![Build Status](https://travis-ci.org/wind-c/bqueue.svg?branch=master)](https://travis-ci.org/wind-c/bqueue) [![GoDoc Reference](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/wind-c/bqueue)
 =======
-A batch queue to process items at time intervals or when a batching limit is met.<br>
+A high-performance batch queue to process items at time intervals or when a batching limit is met.<br>
 It is implemented using the go standard library and does not import any third-party libraries.
 
 ## Features
